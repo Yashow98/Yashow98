@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ### 技术栈
  
 ![Python](https://img.shields.io/badge/-Python-192133?style=flat-square&logo=python&logoColor=white)
-![c++](https://img.shields.io/badge/-Cpp-192133?style=flat-square&logo=cpp&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-192133?style=flat-square&logo=c++&logoColor=white)
 ![Pytorch](https://img.shields.io/badge/-Pytorch-192133?style=flat-square&logo=pytorch&logoColor=white)
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-192133?style=flat-square&logo=tensorflow&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-192133?style=flat-square&logo=mysql&logoColor=white)
