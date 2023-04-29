@@ -19,12 +19,12 @@ Here are some ideas to get you started:
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashow98">
 
 ### 技术栈
- 
 ![Python](https://img.shields.io/badge/-Python-192133?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-Cplusplus-192133?style=flat-square&logo=cplusplus&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-192133?style=flat-square&logo=cplusplus&logoColor=white)
 ![Pytorch](https://img.shields.io/badge/-Pytorch-192133?style=flat-square&logo=pytorch&logoColor=white)
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-192133?style=flat-square&logo=tensorflow&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-192133?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-192133?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-192133?style=flat-square&logo=linux&logoColor=white)
+![Latex](https://img.shields.io/badge/-Latex-192133?style=flat-square&logo=latex&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-192133?style=flat-square&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-192133?style=flat-square&logo=mysql&logoColor=white)
