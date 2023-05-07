@@ -23,9 +23,11 @@ Here are some ideas to get you started:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashow98&layout=compact)
 
-### Languages and Tools:
-![Python](https://img.shields.io/badge/-Python-192133?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-192133?style=flat-square&logo=cplusplus&logoColor=white)
+### Languages and Tools⚒️:
+![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=Python&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+![Assembly](https://img.shields.io/badge/_-MASM-6E4C13.svg?style=flat)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat&logo=JavaScript&logoColor=white)
 ![Pytorch](https://img.shields.io/badge/-Pytorch-192133?style=flat-square&logo=pytorch&logoColor=white)
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-192133?style=flat-square&logo=tensorflow&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-192133?style=flat-square&logo=git&logoColor=white)
@@ -33,3 +35,6 @@ Here are some ideas to get you started:
 ![Latex](https://img.shields.io/badge/-Latex-192133?style=flat-square&logo=latex&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-192133?style=flat-square&logo=docker&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-192133?style=flat-square&logo=mysql&logoColor=white)
+
+### Contacts:mailbox_with_mail:
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:yashowhoo@gmail.com)](mailto:yashowhoo@gmail.com)
