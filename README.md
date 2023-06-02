@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ### Languages and Tools⚒️:
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=Python&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-![Assembly](https://img.shields.io/badge/_-MASM-6E4C13.svg?style=flat)
+![RISC-V](https://img.shields.io/badge/_-RISCV-6E4C13.svg?style=flat)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat&logo=JavaScript&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
