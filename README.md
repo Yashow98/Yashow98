@@ -32,15 +32,15 @@ Here are some ideas to get you started:
 ![Markdown Badge](https://img.shields.io/badge/-Markdown-2088FF?style=flat&logo=Markdown&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat&logo=Jupyter&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Pytorch](https://img.shields.io/badge/-Pytorch-192133?style=flat&logo=pytorch&logoColor=white)
+![Pytorch](https://img.shields.io/badge/-Pytorch-E34F26?style=flat&logo=pytorch&logoColor=white)
 ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat&logo=OpenCV&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-192133?style=flat&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-FF6F00?style=flat&logo=git&logoColor=white)
 ![Github Actions Badge](https://img.shields.io/badge/-Git%20-2088FF?style=flat&logo=Git&logoColor=white)
 ![Shell](https://img.shields.io/badge/-shell-5391FE?style=flat&logo=PowerShell&logoColor=white)
 ![Latex](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=LaTeX&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-192133?style=flat&logo=docker&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-192133?style=flat&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-1572B6?style=flat&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)
 
 
 ### Contacts:mailbox_with_mail:
