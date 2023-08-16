@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Yashow98&layout=compact)
 
 ### Languages and Tools⚒️:
+
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=Python&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 ![RISC-V](https://img.shields.io/badge/-RISCV-6E4C13.svg?style=flat&logo=&logoColor=white)
@@ -37,6 +38,7 @@ Here are some ideas to get you started:
 ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat&logo=OpenCV&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-FF6F00?style=flat&logo=git&logoColor=white)
+![Cmake](https://img.shields.io/badge/-Cmake-008080?style=flat&logo=cmake&logoColor=white)
 ![Shell](https://img.shields.io/badge/-shell-5391FE?style=flat&logo=PowerShell&logoColor=white)
 ![Latex](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=LaTeX&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-1572B6?style=flat&logo=docker&logoColor=white)
