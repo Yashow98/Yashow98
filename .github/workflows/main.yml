@@ -31,8 +31,8 @@ jobs:
           github_user_name: Yashow98
           # these next 2 lines generate the files on a branch called "outputs". This keeps the main branch from cluttering up.
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake.gif
+            dist/github_snake.svg
+            dist/github_snake.gif
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           # the output branch we mentioned above
