@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 
 ### Languages and Tools⚒️:
 
-![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=Python&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=Python&logoColor=white)
 ![RISC-V](https://img.shields.io/badge/-RISCV-6E4C13.svg?style=flat&logo=&logoColor=white)
 ![Vim](https://img.shields.io/badge/-Vim-008080?style=flat&logo=Vim&logoColor=white)
 ![Markdown Badge](https://img.shields.io/badge/-Markdown-2088FF?style=flat&logo=Markdown&logoColor=white)
