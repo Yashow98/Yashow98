@@ -48,6 +48,6 @@ Here are some ideas to get you started:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=black)
 
-### Contacts:mailbox_with_mail:
+### Contacts📬:
 
 [![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:yashowhoo@gmail.com)](mailto:yashowhoo@gmail.com)
