@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1E00F7&width=920&lines=Hi%2C+I'm+James.+I+am+currently+working+as+a+Cpp+Developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1E00F7&width=920&lines=Hi%2C+I'm+James.+I+am+currently+working+as+a+CS+Developer.)](https://git.io/typing-svg)
 
 ![68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966](https://user-images.githubusercontent.com/89845641/220167426-0c5f630e-6d56-4617-9775-71c2bd025b4f.gif)
 
@@ -27,23 +27,27 @@ Here are some ideas to get you started:
 
 ### Languages and Tools⚒️:
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=Python&logoColor=white)
-![RISC-V](https://img.shields.io/badge/-RISCV-6E4C13.svg?style=flat&logo=&logoColor=white)
-![Vim](https://img.shields.io/badge/-Vim-008080?style=flat&logo=Vim&logoColor=white)
-![Markdown Badge](https://img.shields.io/badge/-Markdown-2088FF?style=flat&logo=Markdown&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat&logo=Jupyter&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Pytorch](https://img.shields.io/badge/-Pytorch-E34F26?style=flat&logo=pytorch&logoColor=white)
-![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat&logo=OpenCV&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-FF6F00?style=flat&logo=git&logoColor=white)
-![Cmake](https://img.shields.io/badge/-Cmake-008080?style=flat&logo=cmake&logoColor=white)
-![Shell](https://img.shields.io/badge/-shell-5391FE?style=flat&logo=PowerShell&logoColor=white)
-![Latex](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=LaTeX&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-1572B6?style=flat&logo=docker&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)
-
+![C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=yellow)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Rust](https://img.shields.io/badge/Rust-black?style=flat&logo=rust&logoColor=white)
+![RISC-V](https://img.shields.io/badge/RISC--V-283272?style=flat&logo=riscv&logoColor=yellow)
+![Vim](https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=black)
+![Html](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![css](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=black)
+![Markdown](https://img.shields.io/badge/Markdown-black?style=flat&logo=markdown&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=black)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=black)
+![Pytorch](https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=pytorch&logoColor=black)
+![Tensorflow](https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&logo=tensorflow&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=black)
+![Cmake](https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=black)
+![Shell](https://img.shields.io/badge/Shell-FFD500?style=flat&logo=shell&logoColor=black)
+![Latex](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=black)
 
 ### Contacts:mailbox_with_mail:
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:yashowhoo@gmail.com)](mailto:yashowhoo@gmail.com)
+
+[![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:yashowhoo@gmail.com)](mailto:yashowhoo@gmail.com)
