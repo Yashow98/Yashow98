@@ -47,6 +47,7 @@ Here are some ideas to get you started:
 ![Latex](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=black)
+![LLMs](https://img.shields.io/badge/LLMs-10B146?style=flat&logo=lmms&logoColor=white)
 
 ### Contacts:mailbox_with_mail:
 
