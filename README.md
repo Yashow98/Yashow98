@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=black)
 ![LLMs](https://img.shields.io/badge/LLMs-10B146?style=flat&logo=lmms&logoColor=white)
 
-### Contacts:mailbox_with_mail:
+### Contacts📬:
 
 [![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:yashowhoo@gmail.com)](mailto:yashowhoo@gmail.com)
