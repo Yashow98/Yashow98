@@ -13,10 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966](https://user-images.githubusercontent.com/89845641/220167426-0c5f630e-6d56-4617-9775-71c2bd025b4f.gif)
+
 <!--
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1E00F7&width=920&lines=Hi%2C+I'm+James.+I+am+currently+working+as+a+CPP+Developer.)](https://git.io/typing-svg)
-![68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966](https://user-images.githubusercontent.com/89845641/220167426-0c5f630e-6d56-4617-9775-71c2bd025b4f.gif)
+
 ![github-contribution-grid-snake](https://github.com/Yashow98/Yashow98/blob/output/github_snake.gif)
 ![](https://github-readme-stats.vercel.app/api?username=Yashow98&include_all_commits=true&count_private-true&custom_title=Yashow98'%20GitHub%20Stats&line_height=30&show_icons=true&hide_border=true&bg_color=192133&title_color=efb752&icon_color=efb752&text_color=70bed9)
 
